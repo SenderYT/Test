@@ -1,2 +1,1 @@
-#Le Test#
-print("hello world")
+#Le test#
